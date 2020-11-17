@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ... React JS.
 - 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
 - 🤔 I’m looking for help with ... networking.
-- 💬 Ask me about ... cooking.
+- 💬 Ask me about ... cooking :fire:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/walkerrm/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have a Guiness World Records certificate for playing a couple songs in the Assembly Line, the longest ever continuous concert at the time.
