@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on ... The Odin Project React JS materials.
-- 🌱 I’m currently learning ... React JS.
+- 🔭 I’m currently working on ... a React social media demo project for my portfolio.
+- 🌱 I’m currently learning ... advancing my React JS knowledge.
 - 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
 - 🤔 I’m looking for help with ... networking.
 - 💬 Ask me about ... cooking :fire:
