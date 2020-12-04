@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... a React social media demo project for my portfolio.
+- 🔭 I’m currently working on ... Advent of COde 2020, and a React social media demo project for my portfolio.
 - 🌱 I’m currently learning ... advancing my React JS knowledge.
 - 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
 - 🤔 I’m looking for help with ... networking.
