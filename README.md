@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on ... Advent of Code 2020, React learning projects.
+- 🔭 I’m currently working on ... multiplayer AI bots, React learning projects.
 - 🌱 I’m currently learning ... advancing my React JS knowledge.
 - 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
 - 🤔 I’m looking for help with ... networking.
