@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on ... a multiplayer emotional information game.
-- 🌱 I’m currently learning ... advancing my skills with Vue and associated technologies.
+- 🔭 I’m currently working on ... full-time React development.
+- 🌱 I’m currently learning ... advancing my skills with React and associated technologies.
 - 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
 - 🤔 I’m looking for help with ... networking.
 - 💬 Ask me about ... cooking :fire:
