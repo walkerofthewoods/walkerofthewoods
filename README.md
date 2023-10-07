@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on ... full-time React development.
-- 🌱 I’m currently learning ... advancing my skills with React and associated technologies.
-- 👯 I’m looking to collaborate on ... Open-source JavaScript projects.
+- 🔭 I’m currently working on ... building out personal mobile app projects.
+- 🌱 I’m currently learning ... React Native, C# and .NET
+- 👯 I’m looking to collaborate on ... Open-source JavaScript, TypeScript, and C# projects.
 - 🤔 I’m looking for help with ... networking.
 - 💬 Ask me about ... cooking :fire:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/walkerrm/)
